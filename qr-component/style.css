@@ -14,7 +14,7 @@
   --bg-color: hsl(220, 15%, 55%);
   --white-color: hsl(0, 0%, 100%);
   --light-gray: hsl(212, 45%, 89%);
-  --dark-blue: hsl(216, 12%, 59%);
+  --dark-blue: hsl(214, 8%, 40%);
   --font: "Outfit", sans-serif;
 }
 
@@ -40,7 +40,9 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  box-shadow: 4px 4px 12px rgba(0, 0, 0, 0.484);
 }
+
 .qr__card__title {
   margin-top: 1rem;
   display: flex;
@@ -50,6 +52,7 @@ body {
 }
 
 .qr__card__title h3 {
+  font-weight: 700;
   margin-bottom: 0.5rem;
   font-size: 18px;
   max-width: 210px;
@@ -61,6 +64,7 @@ body {
   text-align: center;
   margin-bottom: 0.5rem;
   color: var(--dark-blue);
+  font-weight: 400;
 }
 
 .qr__img__container {
