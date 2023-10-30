@@ -1,3 +1,6 @@
 [submodule "User-intro-section-with-dropdown-navigation"]
 	path = User-intro-section-with-dropdown-navigation
 	url = https://github.com/BraianAdrianGil/User-intro-section-with-dropdown-navigation
+[submodule "newsletter-sign-up-with-succes-message-frontmentor"]
+	path = newsletter-sign-up-with-succes-message-frontmentor
+	url = https://github.com/BraianAdrianGil/newsletter-sign-up-with-succes-message-frontmentor
